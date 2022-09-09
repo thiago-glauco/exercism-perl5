@@ -654,7 +654,38 @@
     ]
   },
   "concepts": [],
-  "key_features": [],
+  "key_features": [
+    {
+      "icon": "multi-paradigm",
+      "title": "Simple and Reduced OOP",
+      "content": "Perl 5 has simple and easy OOP features that can be extended to modern patterns with CPAN Modules like Moose."
+    },
+    {
+      "icon": "cross-platform",
+      "title": "Cross-platform",
+      "content": "Perl runs over more than 100 platforms."
+    },
+    {
+      "icon": "powerful",
+      "title": "30 years of Development",
+      "content": "Perl 5 is powerful and pretty stable, with more than 30 years of development and increasing features."
+    },
+    {
+      "icon": "general-purpose",
+      "title": "General purpose",
+      "content": "Perl 5 can be used for a wide variety of workloads, like system monitoring, console applications, backend services and websites."
+    },
+    {
+      "icon": "expressive",
+      "title": "There Are Many Ways To Do IT",
+      "content": "Perl is a very expressive language, providing many easy ways to solve developers' daily problems."
+    },
+    {
+      "icon": "Documentation",
+      "title": "Documentation",
+      "content": "Perl 5 community have done an excelent work documenting Perl and its modules."
+    }
+  ],
   "tags": [
     "paradigm/imperative",
     "paradigm/procedural",
