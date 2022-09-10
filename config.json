@@ -658,7 +658,7 @@
     {
       "icon": "multi-paradigm",
       "title": "Simple and Reduced OOP",
-      "content": "Perl 5 has simple and easy OOP features that can be extended to modern patterns with CPAN Modules like Moose."
+      "content": "Perl 5 has simple and easy OOP features that can be extended to modern patterns with CPAN Modules."
     },
     {
       "icon": "cross-platform",
@@ -668,20 +668,20 @@
     {
       "icon": "powerful",
       "title": "30 years of Development",
-      "content": "Perl 5 is powerful and pretty stable, with more than 30 years of development and increasing features."
+      "content": "Perl 5 is powerful and stable, with more than 30 years of development and increasing features."
     },
     {
       "icon": "general-purpose",
       "title": "General purpose",
-      "content": "Perl 5 can be used for a wide variety of workloads, like system monitoring, console applications, backend services and websites."
+      "content": "Perl 5 can be used for a wide variety of workloads, from system monitoring to backend services."
     },
     {
       "icon": "expressive",
-      "title": "There Are Many Ways To Do IT",
+      "title": "There Are Many Ways",
       "content": "Perl is a very expressive language, providing many easy ways to solve developers' daily problems."
     },
     {
-      "icon": "Documentation",
+      "icon": "documentation",
       "title": "Documentation",
       "content": "Perl 5 community have done an excelent work documenting Perl and its modules."
     }
