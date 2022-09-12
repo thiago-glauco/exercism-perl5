@@ -673,7 +673,7 @@
     {
       "icon": "general-purpose",
       "title": "General purpose",
-      "content": "Perl 5 can be used for a wide variety of workloads, from system monitoring to backend services."
+      "content": "Perl 5 can be used for a wide variety of workloads, from backend services to speech translation."
     },
     {
       "icon": "expressive",
