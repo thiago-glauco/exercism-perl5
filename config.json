@@ -658,7 +658,7 @@
     {
       "icon": "multi-paradigm",
       "title": "Simple and Reduced OOP",
-      "content": "Perl 5 has simple and easy OOP features that can be extended to modern patterns with CPAN Modules."
+      "content": "Perl 5 has OOP features that can be extended to modern patterns with CPAN Modules."
     },
     {
       "icon": "cross-platform",
